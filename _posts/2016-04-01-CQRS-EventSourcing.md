@@ -2,7 +2,7 @@
 layout: post
 title: CQRS, Eventsourcing and DDD
 subtitle: Notes from Greg Young's CQRS course
-author: FrederikMichel
+author: Frederik Michel
 author_email: frederik.michel@haufe-lexware.com
 header-img: "images/bg-post.jpg"
 ---
